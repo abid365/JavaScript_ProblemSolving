@@ -10,6 +10,6 @@ const secondSmallest = (arr) => {
   return result;
 };
 
-const inputValue = [93];
+const inputValue = [93, 86, 10, 6, 6, 91, 37];
 const finalResult = secondSmallest(inputValue);
 console.log(finalResult);
