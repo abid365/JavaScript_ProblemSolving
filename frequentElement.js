@@ -20,7 +20,7 @@ const mostFrequentElement = (arr) => {
       maxCount = freqObj[element];
     }
   }
-  console.log(freqObj);
+  //   console.log(freqObj);
   return `Frequent Element is ${maxElement} and Count ${maxCount}`;
 };
 
