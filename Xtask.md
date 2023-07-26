@@ -22,4 +22,4 @@ Task 5: Implement a simple JavaScript calculator. The calculator should take two
 
 <!--* Task 7: Implement a function that converts a Roman numeral to an integer. The function should take a Roman numeral string (e.g., "IX" or "XXI") as input and return the corresponding integer value. -->
 
-<!--todo: Task 8: Implement a JavaScript function to find the second smallest element in an array of numbers. The function should return the second smallest number. -->
+<!--*: Task 8: Implement a JavaScript function to find the second smallest element in an array of numbers. The function should return the second smallest number. -->

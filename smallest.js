@@ -3,10 +3,13 @@
  */
 
 const secondSmallest = (arr) => {
+  if (arr.length < 2) {
+    return "Array is too short";
+  }
   const result = arr.sort((a, b) => a - b)[1];
   return result;
 };
 
-const inputValue = [93, 86, 10, 6, 6, 91, 37];
+const inputValue = [93];
 const finalResult = secondSmallest(inputValue);
 console.log(finalResult);
