@@ -18,8 +18,8 @@ Example Input: ([1, 3, 6, 8, 11, 15], 9) Example Output: [1, 2] (numbers at indi
 
 Task 5: Implement a simple JavaScript calculator. The calculator should take two numbers and an operator (+, -, \*, /) as input and return the result of the operation.
 
-<!--todo Task 6: Create a program that generates a random password of a specified length. The password should include a mix of uppercase letters, lowercase letters, numbers, and special characters. -->
+<!--* Task 6: Create a program that generates a random password of a specified length. The password should include a mix of uppercase letters, lowercase letters, numbers, and special characters. -->
 
-Task 7: Implement a function that converts a Roman numeral to an integer. The function should take a Roman numeral string (e.g., "IX" or "XXI") as input and return the corresponding integer value.
+<!--* Task 7: Implement a function that converts a Roman numeral to an integer. The function should take a Roman numeral string (e.g., "IX" or "XXI") as input and return the corresponding integer value. -->
 
 Task 8: Implement a JavaScript function to find the second smallest element in an array of numbers. The function should return the second smallest number.

@@ -13,7 +13,7 @@ let password = "";
 
 const passGenerator = (length) => {
   for (let i = 0; i <= length; i++) {
-    password += allChar[Math.floor(Math.random() * allChar.length)];
+    password += allChar[Math.floor(Math.random() * allChar.length + 1)];
   }
   return password;
 };
